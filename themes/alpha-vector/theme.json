@@ -1,0 +1,23 @@
+{
+  "id": "alpha-vector",
+  "name": "Alpha Vector",
+  "version": 2,
+  "colors": {
+    "bg": "#0D0618",
+    "panelBg": "#1A0D33",
+    "panelBgAlt": "#2E1A47",
+    "surface": "#33205A",
+    "accent": "#CDA434",
+    "accentSoft": "#00F5D4",
+    "accentDim": "#4A4E69",
+    "accentGlow": "#4A2480",
+    "textPrimary": "#F3EBFF",
+    "textSecondary": "#B9A8D6",
+    "textMuted": "#7A6F99"
+  },
+  "images": {
+    "background": "bg.jpg",
+    "mascot": "mascot.png",
+    "splash": "splash.png"
+  }
+}

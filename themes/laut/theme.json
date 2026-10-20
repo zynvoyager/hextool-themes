@@ -1,0 +1,23 @@
+{
+  "id": "laut",
+  "name": "Laut (Akuarium)",
+  "version": 1,
+  "colors": {
+    "bg": "#031826",
+    "panelBg": "#06263A",
+    "panelBgAlt": "#083049",
+    "surface": "#0C3D5C",
+    "accent": "#22D3C5",
+    "accentSoft": "#8EF2E8",
+    "accentDim": "#0F5F66",
+    "accentGlow": "#06343A",
+    "textPrimary": "#E6FBFF",
+    "textSecondary": "#8CC4D1",
+    "textMuted": "#55909E"
+  },
+  "images": {
+    "background": "bg.jpg",
+    "mascot": "mascot.png",
+    "splash": "splash.png"
+  }
+}

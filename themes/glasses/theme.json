@@ -1,0 +1,23 @@
+{
+  "id": "glasses",
+  "name": "Glasses (iOS)",
+  "version": 1,
+  "colors": {
+    "bg": "#000000",
+    "panelBg": "#1C1C1E",
+    "panelBgAlt": "#242426",
+    "surface": "#2C2C2E",
+    "accent": "#0A84FF",
+    "accentSoft": "#64D2FF",
+    "accentDim": "#1B3F6B",
+    "accentGlow": "#0B2342",
+    "textPrimary": "#FFFFFF",
+    "textSecondary": "#AEAEB2",
+    "textMuted": "#6C6C70"
+  },
+  "images": {
+    "background": "bg.jpg",
+    "mascot": "mascot.png",
+    "splash": "splash.png"
+  }
+}

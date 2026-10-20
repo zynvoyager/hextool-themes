@@ -1,0 +1,23 @@
+{
+  "id": "space",
+  "name": "Space (Luar Angkasa)",
+  "version": 1,
+  "colors": {
+    "bg": "#05030F",
+    "panelBg": "#0C0A1E",
+    "panelBgAlt": "#120F2A",
+    "surface": "#1A1636",
+    "accent": "#FFC857",
+    "accentSoft": "#FFE29A",
+    "accentDim": "#5C4515",
+    "accentGlow": "#2B2008",
+    "textPrimary": "#F1EEFF",
+    "textSecondary": "#A9A3D0",
+    "textMuted": "#6A6490"
+  },
+  "images": {
+    "background": "bg.jpg",
+    "mascot": "mascot.png",
+    "splash": "splash.png"
+  }
+}
