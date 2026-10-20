@@ -1,23 +1,34 @@
 {
   "id": "alpha-vector",
   "name": "Alpha Vector",
-  "version": 2,
+  "version": 3,
   "colors": {
-    "bg": "#060913",          
-    "panelBg": "#111827",    
-    "panelBgAlt": "#1A2333",  
-    "surface": "#261D1A",     
-    "accent": "#FFAE33",      
-    "accentSoft": "#56D6FF",  
-    "accentDim": "#6B533E",   
-    "accentGlow": "#85430B", 
-    "textPrimary": "#FFF8EF", 
+    "bg": "#060913",
+    "panelBg": "#111827",
+    "panelBgAlt": "#1A2333",
+    "surface": "#261D1A",
+    "accent": "#FFAE33",
+    "accentSoft": "#56D6FF",
+    "accentDim": "#6B533E",
+    "accentGlow": "#85430B",
+    "textPrimary": "#FFF8EF",
     "textSecondary": "#C7B9A5",
-    "textMuted": "#6E788A"   
+    "textMuted": "#6E788A"
   },
   "images": {
     "background": "bg.jpg",
     "mascot": "mascot.png",
     "splash": "splash.png"
+  },
+  "icons": {
+    "bubble": "mascot.png",
+    "panel": "ic_panel.png",
+    "decode": "ic_decode.png",
+    "bahasa": "ic_bahasa.png",
+    "crop": "ic_crop.png",
+    "target": "ic_target.png",
+    "log": "ic_log.png",
+    "atur": "ic_atur.png",
+    "tutup": "ic_tutup.png"
   }
 }

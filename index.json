@@ -29,7 +29,7 @@
     "name": "Glasses (iOS)",
     "version": 1
   },
-  {
+ {
     "id": "laut",
     "name": "Laut (Akuarium)",
     "version": 1
@@ -39,9 +39,14 @@
     "name": "Space (Luar Angkasa)",
     "version": 1
   },
-  {
+ {
     "id": "alpha-vector",
     "name": "Alpha Vector",
-    "version": 2
+    "version": 3
+  },
+  {
+    "id": "lily",
+    "name": "Lily Maroon",
+    "version": 1
   }
 ]

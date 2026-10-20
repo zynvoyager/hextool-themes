@@ -19,5 +19,16 @@
     "background": "bg.jpg",
     "mascot": "mascot.png",
     "splash": "splash.png"
+  },
+  "icons": {
+    "bubble": "mascot.png",
+    "panel": "🐡",
+    "decode": "🦈",
+    "bahasa": "🐋",
+    "crop": "🐡",
+    "target": "🐋",
+    "log": "🐠",
+    "atur": "🐟",
+    "tutup": "🐳"
   }
 }

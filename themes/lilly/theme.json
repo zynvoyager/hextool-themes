@@ -1,0 +1,34 @@
+{
+  "id": "lily",
+  "name": "Lily Maroon",
+  "version": 1,
+  "colors": {
+    "bg": "#0F0B10",
+    "panelBg": "#1A121A",
+    "panelBgAlt": "#261A26",
+    "surface": "#382033",
+    "accent": "#991B1B",
+    "accentSoft": "#F87171",
+    "accentDim": "#5C1D24",
+    "accentGlow": "#7F1D1D",
+    "textPrimary": "#FFF1F2",
+    "textSecondary": "#FECDD3",
+    "textMuted": "#9F1239"
+  },
+  "images": {
+    "background": "bg.jpg",
+    "mascot": "mascot.png",
+    "splash": "splash.png"
+  },
+  "icons": {
+    "bubble": "mascot.png",
+    "panel": "🌷",
+    "decode": "💮",
+    "bahasa": "🌺",
+    "crop": "💐",
+    "target": "🌻",
+    "log": "🌼",
+    "atur": "🌹",
+    "tutup": "🌸"
+  }
+}
