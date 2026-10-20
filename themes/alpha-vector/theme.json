@@ -21,6 +21,7 @@
     "splash": "splash.png"
   },
   "icons": {
+    "bubble": "bubble.png",
     "panel": "panel.png",
     "decode": "decode.png",
     "bahasa": "bahasa.png",
