@@ -1,7 +1,7 @@
 {
   "id": "alpha-vector",
   "name": "Alpha Vector",
-  "version": 3,
+  "version": 5,
   "colors": {
     "bg": "#060913",
     "panelBg": "#111827",
