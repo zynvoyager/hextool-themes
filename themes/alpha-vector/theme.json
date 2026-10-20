@@ -21,14 +21,13 @@
     "splash": "splash.png"
   },
   "icons": {
-    "bubble": "mascot.png",
-    "panel": "ic_panel.png",
-    "decode": "ic_decode.png",
-    "bahasa": "ic_bahasa.png",
-    "crop": "ic_crop.png",
-    "target": "ic_target.png",
-    "log": "ic_log.png",
-    "atur": "ic_atur.png",
-    "tutup": "ic_tutup.png"
+    "panel": "panel.png",
+    "decode": "decode.png",
+    "bahasa": "bahasa.png",
+    "crop": "crop.png",
+    "target": "target.png",
+    "log": "log.png",
+    "atur": "atur.png",
+    "tutup": "tutup.png"
   }
 }
